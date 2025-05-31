@@ -4,8 +4,6 @@
 The Currency Converter is a web application that allows users to convert between different currencies using the latest exchange rates. 
 This app fetches real-time exchange rates from an external API using JavaScript's Fetch API and provides an easy-to-use interface for quick conversions.
 
-## 🌎 Live Demo: https://dazzling-tartufo-a7192f.netlify.app/
-
 ## 🖼️ Screenshots:
 
 🔹 Initial Interface:
@@ -45,7 +43,6 @@ This app fetches real-time exchange rates from an external API using JavaScript'
 Follow these steps to set up the project locally:
 
 1️⃣ Clone the Repository:
-    git clone https://github.com/sanjay-1458/Currency-Converter.git
 
 2️⃣ Navigate into the Project Folder:
     cd Currency-Converter
@@ -73,7 +70,6 @@ The application fetches exchange rates from:
 
 # 🚀 Live Demo
 
-🔗 Try the Currency Converter: https://dazzling-tartufo-a7192f.netlify.app/
 
 ------------------------------------------------------------
 
